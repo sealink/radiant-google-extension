@@ -1,0 +1,6 @@
+---
+en:
+  config:
+    google:
+      cse_id: 'Custom Search Engine ID'
+      tag_manager_id: 'Tag Manager ID'
