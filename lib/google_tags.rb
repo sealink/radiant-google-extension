@@ -34,7 +34,7 @@ module GoogleTags
     (<<-JS).html_safe
     <!-- Google Tag Manager -->
     <noscript>
-      <iframe height="0" width="0" src="//www.googletagmanager.com/ns.html?id=#{googleTmId}" style="display:none;visibility:hidden" />
+      <iframe height="0" width="0" src="//www.googletagmanager.com/ns.html?id=#{googleTmId}" style="display:none;visibility:hidden"></iframe>
     </noscript>
 
     <script type="text/javascript">
